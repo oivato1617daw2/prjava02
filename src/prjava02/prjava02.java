@@ -5,7 +5,7 @@ package prjava02;
  */
 
 import java.io.*;
-import java.net.*;
+import java.net.*; 
 /**
  *
  * @author ¬¬> Escriu el teu correu electrònic
